@@ -1,0 +1,20 @@
+# Ignorar a pasta node_modules
+node_modules/
+
+# Ignorar arquivos de log
+*.log
+
+# Ignorar arquivos de ambiente
+.env
+
+# Ignorar arquivos de compilação
+dist/
+build/
+
+# Ignorar arquivos temporários
+*.tmp
+*.swp
+
+# Ignorar diretórios de configuração do sistema
+.DS_Store
+.vscode/
